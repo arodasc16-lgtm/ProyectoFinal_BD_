@@ -1,0 +1,21 @@
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Bases/Backups (no subir)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.bacpac
+
+# Logs
+*.log
+
+# Office temporales
+~$*
